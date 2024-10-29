@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jatochja
+- 👀 I’m interested in C Security
+- 🌱 I’m currently learning virtualization and coding.
+- 😄 Pronouns: helicopter 🚁 
